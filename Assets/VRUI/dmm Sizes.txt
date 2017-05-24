@@ -1,0 +1,20 @@
+Panel:
+Drop vertical: 100dmm
+Eye Comfortable Width: 
+
+Text:
+Headline: 40dmm
+Title: 32dmm
+Subheading: 28dmm
+Body: 24dmm
+Caption: 20dmm
+Button: 24dmm
+
+Hit Targets:
+Comfortable Look Target: 192dmm
+Minimum Look Target: 128dmm
+Look Target Padding: 32dmm
+
+Comfortable Point Target: 96dmm
+Minimum Point Target: 64dmm
+Point Target Padding: 16dmm
